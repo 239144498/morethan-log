@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Naihe's Blog`,
-      href: "https://github.com/239144498",
+      name: `Qbin`,
+      href: "https://qbin.me",
     },
   ],
   // blog setting (required)
