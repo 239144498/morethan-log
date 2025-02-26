@@ -24,10 +24,10 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://blogt.vercel.app",
+  link: "https://naihe.eu.org",
   since: 2025, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "", // https://og-image-korean.vercel.app The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
